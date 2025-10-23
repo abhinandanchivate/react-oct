@@ -28,7 +28,17 @@ const Register = () => {
     });
   };
   // onSubmit ==> to handle the form submission event
-  const onSubmit = (e) => {};
+  const onSubmit = (e) => {
+    e.preventDefault(); // prevent the default behaviour of form submission (page reload)
+    console.log("Form Submitted");
+    console.log(formData); // print the form data in the console
+  };
+
+  const { name, email, password, password2 } = formData; // destructuring
+  // name = formData.name
+  // email = formData.email
+  // password = formData.password
+  // password2 = formData.password2
   return (
     <>
       {" "}
@@ -39,13 +49,22 @@ const Register = () => {
         </p>
         <form className="form" onSubmit={onSubmit}>
           <div className="form-group">
-            <input type="text" placeholder="Name" name="name"
-            value={}
-            required />
+            <input
+              type="text"
+              placeholder="Name"
+              name="name"
+              value={name} // consume the value from the state
+              required
+              onChange={onChange}
+            />
           </div>
           <div className="form-group">
-            <input type="email" placeholder="Email Address" name="email"
-            value={}
+            <input
+              type="email"
+              placeholder="Email Address"
+              name="email"
+              value={email}
+              onChange={onChange}
             />
             <small className="form-text">
               This site uses Gravatar so if you want a profile image, use a
@@ -58,7 +77,8 @@ const Register = () => {
               placeholder="Password"
               name="password"
               minLength="6"
-            value={}
+              value={password}
+              onChange={onChange}
             />
           </div>
           <div className="form-group">
@@ -67,7 +87,8 @@ const Register = () => {
               placeholder="Confirm Password"
               name="password2"
               minLength="6"
-            value={}
+              value={password2}
+              onChange={onChange}
             />
           </div>
           <input type="submit" className="btn btn-primary" value="Register" />
