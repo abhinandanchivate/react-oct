@@ -1,14 +1,16 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const Header = () => {
+const Header = (
+  { appName: { name, name2 }, appDetails: { age } } // props object
+) => {
   return (
     <>
       {" "}
       <nav class="navbar bg-dark">
         <h1>
           <a href="index.html">
-            <i class="fas fa-code"></i> DevConnector
+            <i class="fas fa-code"></i> {name} {name2} {age}
           </a>
         </h1>
         <ul>
