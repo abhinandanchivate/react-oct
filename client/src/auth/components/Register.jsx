@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import { useDispatch } from "react-redux";
+import { registerUserAction } from "../rtk/auth.action";
 
 const initialState = {
   name: "",
@@ -7,6 +9,8 @@ const initialState = {
   password2: "",
 };
 const Register = () => {
+  const dispatch = useDispatch();
+  // useDispatch : to dispatch the actions to the redux store
   const [formData, setFormData] = useState(initialState);
   // const : declare a constant / final spec
   // formData : name of the state
@@ -32,6 +36,7 @@ const Register = () => {
     e.preventDefault(); // prevent the default behaviour of form submission (page reload)
     console.log("Form Submitted");
     console.log(formData); // print the form data in the console
+    dispatch(registerUserAction(formData));
   };
 
   const { name, email, password, password2 } = formData; // destructuring

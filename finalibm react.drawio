@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="10">
     <diagram name="Page-1" id="zz2CMkQjYr381hOcUtvI">
-        <mxGraphModel dx="1507" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1494" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -633,7 +633,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="q6f1zca6uXZKOTLb3swn" name="Page-5">
-        <mxGraphModel dx="657" dy="326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="644" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -680,7 +680,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="NBSvFuVrw1tfSNTdDK4G" name="Page-6">
-        <mxGraphModel dx="1611" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1494" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -839,29 +839,29 @@
                 <mxCell id="r8C1bl4WtRMPwy2IPfgW-1" value="thunk or middleware" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
                     <mxGeometry x="405" y="910" width="205" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="asgP24u16mpTn7ScqZtx-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="asgP24u16mpTn7ScqZtx-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="630" y="200" width="120" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="asgP24u16mpTn7ScqZtx-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="asgP24u16mpTn7ScqZtx-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="370" y="210" width="240" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="asgP24u16mpTn7ScqZtx-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                <mxCell id="asgP24u16mpTn7ScqZtx-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="660" y="310" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="asgP24u16mpTn7ScqZtx-4" value="RTK will help us&amp;nbsp;&lt;div&gt;Redux toolkit&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="asgP24u16mpTn7ScqZtx-4" value="RTK will help us&amp;nbsp;&lt;div&gt;Redux toolkit&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="30" y="190" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="asgP24u16mpTn7ScqZtx-5" value="&lt;span style=&quot;color: rgb(248, 248, 242); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16.15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(39, 40, 34); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;npm install react-redux&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(248, 248, 242); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16.15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(39, 40, 34); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(248, 248, 242); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16.15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(39, 40, 34); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;integrated lib which will allow&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(248, 248, 242); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16.15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(39, 40, 34); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt; us to use redux in react &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(248, 248, 242); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16.15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(39, 40, 34); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;application.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="asgP24u16mpTn7ScqZtx-5" value="&lt;span style=&quot;color: rgb(248, 248, 242); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16.15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(39, 40, 34); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;npm install react-redux&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(248, 248, 242); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16.15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(39, 40, 34); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(248, 248, 242); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16.15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(39, 40, 34); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;integrated lib which will allow&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(248, 248, 242); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16.15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(39, 40, 34); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt; us to use redux in react &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(248, 248, 242); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16.15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(39, 40, 34); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;application.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-70" y="280" width="310" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="asgP24u16mpTn7ScqZtx-6" value="npm install @reduxjs/toolkit&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;this package is dedicated to manage ur centralized store / location where we can hold the data centrally.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="asgP24u16mpTn7ScqZtx-6" value="npm install @reduxjs/toolkit&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;this package is dedicated to manage ur centralized store / location where we can hold the data centrally.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="10" y="460" width="250" height="70" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="iTWHDnNER3uS501Zqkl7" name="Page-7">
-        <mxGraphModel dx="761" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="644" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -872,7 +872,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="pAIPVXz6_eL83BOwXMI6" name="Page-8">
-        <mxGraphModel dx="1611" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1495" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -919,65 +919,65 @@
         </mxGraphModel>
     </diagram>
     <diagram id="CZJ0ohNplcMcJWMf27S6" name="dashboard">
-        <mxGraphModel dx="2036" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1494" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2spyMie-ga2L4lR_ypaL-1">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2spyMie-ga2L4lR_ypaL-1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="420" y="180" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-1" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-1" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="360" y="40" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2spyMie-ga2L4lR_ypaL-6" target="2spyMie-ga2L4lR_ypaL-7">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2spyMie-ga2L4lR_ypaL-6" target="2spyMie-ga2L4lR_ypaL-7" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2spyMie-ga2L4lR_ypaL-6" target="2spyMie-ga2L4lR_ypaL-13">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2spyMie-ga2L4lR_ypaL-6" target="2spyMie-ga2L4lR_ypaL-13" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;it has to render few details from user profile&amp;nbsp;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;it has to render few details from user profile&amp;nbsp;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="225" y="180" width="390" height="220" as="geometry"/>
                 </mxCell>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-7" value="then we want to see the exp details, edu details and 3 buttons for edit profile, add exp , add edu" style="whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-7" value="then we want to see the exp details, edu details and 3 buttons for edit profile, add exp , add edu" style="whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
                     <mxGeometry x="-60" y="420" width="240" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-9" value="u have user profile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-9" value="u have user profile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
                     <mxGeometry x="20" y="240" width="170" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2spyMie-ga2L4lR_ypaL-10" target="2spyMie-ga2L4lR_ypaL-15">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2spyMie-ga2L4lR_ypaL-10" target="2spyMie-ga2L4lR_ypaL-15" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-10" value="u don&#39;t&amp;nbsp; have user profile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-10" value="u don&#39;t&amp;nbsp; have user profile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
                     <mxGeometry x="680" y="240" width="190" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-13" value="we should see the create profile button" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-13" value="we should see the create profile button" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
                     <mxGeometry x="740" y="420" width="190" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2spyMie-ga2L4lR_ypaL-15" target="2spyMie-ga2L4lR_ypaL-17">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2spyMie-ga2L4lR_ypaL-15" target="2spyMie-ga2L4lR_ypaL-17" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-15" value="checking the user profile on the basis of token" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-15" value="checking the user profile on the basis of token" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="715" y="110" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-17" value="we need to perform a&amp;nbsp; rest call /api/profile/me" style="whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-17" value="we need to perform a&amp;nbsp; rest call /api/profile/me" style="whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
                     <mxGeometry x="915" y="110" width="215" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2spyMie-ga2L4lR_ypaL-19" target="2spyMie-ga2L4lR_ypaL-20">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2spyMie-ga2L4lR_ypaL-19" target="2spyMie-ga2L4lR_ypaL-20" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-19" value="after login / register&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-19" value="after login / register&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
                     <mxGeometry x="305" y="600" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="2spyMie-ga2L4lR_ypaL-20" value="any rest call needs token .&amp;nbsp; it has to be added implicitly by axios" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+                <mxCell id="2spyMie-ga2L4lR_ypaL-20" value="any rest call needs token .&amp;nbsp; it has to be added implicitly by axios" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="227.5" y="750" width="275" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="9EQ3wKQdINnRXzeBOpom" name="Page-10">
-        <mxGraphModel dx="761" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="644" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1021,7 +1021,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="gbgouwAxWgcVci5zsDKc" name="Page-11">
-        <mxGraphModel dx="761" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="644" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1041,30 +1041,30 @@
         </mxGraphModel>
     </diagram>
     <diagram id="QweqTjelIEoyZU8t9Ccm" name="Page-12">
-        <mxGraphModel dx="396" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="644" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="n7mjbyDmZqHD00Z8V-FC-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="n7mjbyDmZqHD00Z8V-FC-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="110" y="30" width="260" height="270" as="geometry"/>
                 </mxCell>
-                <mxCell id="n7mjbyDmZqHD00Z8V-FC-2" value="home Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                <mxCell id="n7mjbyDmZqHD00Z8V-FC-2" value="home Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
                     <mxGeometry x="50" y="40" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="n7mjbyDmZqHD00Z8V-FC-3" value="Header" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="n7mjbyDmZqHD00Z8V-FC-3" value="Header" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="140" y="40" width="210" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="n7mjbyDmZqHD00Z8V-FC-4" value="Landing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="n7mjbyDmZqHD00Z8V-FC-4" value="Landing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="135" y="130" width="210" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="n7mjbyDmZqHD00Z8V-FC-5" value="Footer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="n7mjbyDmZqHD00Z8V-FC-5" value="Footer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="140" y="210" width="210" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="IiLUVFuLZ7Mhx11dthrW" name="Page-13">
-        <mxGraphModel dx="1507" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1494" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1173,101 +1173,107 @@
         </mxGraphModel>
     </diagram>
     <diagram id="15rViao5h1Nyz71mnGl8" name="Page-14">
-        <mxGraphModel dx="761" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="644" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="X8vDRGFJFilbNk8pbMEG-1" value="1. props :&amp;nbsp;&lt;div&gt;2. RTK&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="X8vDRGFJFilbNk8pbMEG-1" value="1. props :&amp;nbsp;&lt;div&gt;2. RTK&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="190" y="60" width="220" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="X8vDRGFJFilbNk8pbMEG-4" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="X8vDRGFJFilbNk8pbMEG-2" target="X8vDRGFJFilbNk8pbMEG-3">
+                <mxCell id="X8vDRGFJFilbNk8pbMEG-4" value="" style="edgeStyle=none;html=1;" parent="1" source="X8vDRGFJFilbNk8pbMEG-2" target="X8vDRGFJFilbNk8pbMEG-3" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="X8vDRGFJFilbNk8pbMEG-2" value="several files ==&amp;gt; are available on multiple machines ==&amp;gt; over the network ==&amp;gt; can we access those file ?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="X8vDRGFJFilbNk8pbMEG-2" value="several files ==&amp;gt; are available on multiple machines ==&amp;gt; over the network ==&amp;gt; can we access those file ?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="260" y="330" width="260" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="X8vDRGFJFilbNk8pbMEG-6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="X8vDRGFJFilbNk8pbMEG-3" target="X8vDRGFJFilbNk8pbMEG-5">
+                <mxCell id="X8vDRGFJFilbNk8pbMEG-6" value="" style="edgeStyle=none;html=1;" parent="1" source="X8vDRGFJFilbNk8pbMEG-3" target="X8vDRGFJFilbNk8pbMEG-5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="X8vDRGFJFilbNk8pbMEG-3" value="FTP server" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="X8vDRGFJFilbNk8pbMEG-3" value="FTP server" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="330" y="470" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="X8vDRGFJFilbNk8pbMEG-5" value="can I access the data across any corner from my. network." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="X8vDRGFJFilbNk8pbMEG-5" value="can I access the data across any corner from my. network." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="130" y="470" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="X8vDRGFJFilbNk8pbMEG-9" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="X8vDRGFJFilbNk8pbMEG-7" target="X8vDRGFJFilbNk8pbMEG-8">
+                <mxCell id="X8vDRGFJFilbNk8pbMEG-9" value="" style="edgeStyle=none;html=1;" parent="1" source="X8vDRGFJFilbNk8pbMEG-7" target="X8vDRGFJFilbNk8pbMEG-8" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="X8vDRGFJFilbNk8pbMEG-7" value="centralized system where we will keep our data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="X8vDRGFJFilbNk8pbMEG-7" value="centralized system where we will keep our data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="310" y="600" width="110" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="X8vDRGFJFilbNk8pbMEG-8" value="can be accesible across the application." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="X8vDRGFJFilbNk8pbMEG-8" value="can be accesible across the application." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="277.5" y="755" width="175" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="X8vDRGFJFilbNk8pbMEG-10" value="ReduxToolKit(RTK)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="X8vDRGFJFilbNk8pbMEG-10" value="ReduxToolKit(RTK)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="140" y="670" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="1Xl7Xx55M-x58RvnOK2S" name="Page-15">
-        <mxGraphModel dx="1611" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1494" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-3" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="Alb8G33zUEXpTa8EWzOf-1" target="Alb8G33zUEXpTa8EWzOf-2">
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-3" value="" style="edgeStyle=none;html=1;" parent="1" source="Alb8G33zUEXpTa8EWzOf-1" target="Alb8G33zUEXpTa8EWzOf-2" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-1" value="store(centralized space to hold the data for ur application)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-1" value="store(centralized space to hold the data for ur application)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="310" y="40" width="190" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="Alb8G33zUEXpTa8EWzOf-2" target="Alb8G33zUEXpTa8EWzOf-4">
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-5" value="" style="edgeStyle=none;html=1;" parent="1" source="Alb8G33zUEXpTa8EWzOf-2" target="Alb8G33zUEXpTa8EWzOf-4" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-2" value="components" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-2" value="components" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="600" y="110" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="Alb8G33zUEXpTa8EWzOf-4" target="Alb8G33zUEXpTa8EWzOf-6">
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-7" value="" style="edgeStyle=none;html=1;" parent="1" source="Alb8G33zUEXpTa8EWzOf-4" target="Alb8G33zUEXpTa8EWzOf-6" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-9" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="Alb8G33zUEXpTa8EWzOf-4" target="Alb8G33zUEXpTa8EWzOf-8">
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-9" value="" style="edgeStyle=none;html=1;" parent="1" source="Alb8G33zUEXpTa8EWzOf-4" target="Alb8G33zUEXpTa8EWzOf-8" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-11" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="Alb8G33zUEXpTa8EWzOf-4" target="Alb8G33zUEXpTa8EWzOf-10">
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-11" value="" style="edgeStyle=none;html=1;" parent="1" source="Alb8G33zUEXpTa8EWzOf-4" target="Alb8G33zUEXpTa8EWzOf-10" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-4" value="actions" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="mSPh_dUg8nkktQqN7sIM-2" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="Alb8G33zUEXpTa8EWzOf-4" target="mSPh_dUg8nkktQqN7sIM-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-4" value="actions" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="360" y="260" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-6" value="rest calls" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-6" value="rest calls" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="220" y="380" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-8" value="Common Business Logical work" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-8" value="Common Business Logical work" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="570" y="380" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-13" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="Alb8G33zUEXpTa8EWzOf-10" target="Alb8G33zUEXpTa8EWzOf-12">
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-13" value="" style="edgeStyle=none;html=1;" parent="1" source="Alb8G33zUEXpTa8EWzOf-10" target="Alb8G33zUEXpTa8EWzOf-12" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-10" value="middleware(which is handled internally by the RTK) no need to worrry." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-10" value="middleware(which is handled internally by the RTK) no need to worrry." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="160" y="260" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-12" value="Reducers" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-12" value="Reducers" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="-40" y="110" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-14" style="edgeStyle=none;html=1;entryX=-0.018;entryY=0.628;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Alb8G33zUEXpTa8EWzOf-12" target="Alb8G33zUEXpTa8EWzOf-1">
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-14" style="edgeStyle=none;html=1;entryX=-0.018;entryY=0.628;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Alb8G33zUEXpTa8EWzOf-12" target="Alb8G33zUEXpTa8EWzOf-1" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-15" value="data from store will be shared with components but as immutable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-15" value="data from store will be shared with components but as immutable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="520" y="50" width="200" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="Alb8G33zUEXpTa8EWzOf-16" value="to manipulate the store" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="Alb8G33zUEXpTa8EWzOf-16" value="to manipulate the store" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="90" y="40" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="l0HMWCNfZswiMzKAxEHk-1" value="1. Promises : its a placeholder for a&amp;nbsp; future : success / failure&amp;nbsp;&lt;div&gt;pending&lt;/div&gt;&lt;div&gt;success&lt;/div&gt;&lt;div&gt;failrue&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="l0HMWCNfZswiMzKAxEHk-1" value="1. Promises : its a placeholder for a&amp;nbsp; future : success / failure&amp;nbsp;&lt;div&gt;pending&lt;/div&gt;&lt;div&gt;success&lt;/div&gt;&lt;div&gt;failrue&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="31" y="499" width="380" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="l0HMWCNfZswiMzKAxEHk-2" value="Slice : a slice is like a mini state module that manages one feature of your application.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;data: state&lt;/div&gt;&lt;div&gt;action:&amp;nbsp; register, login ==&amp;gt; rest / CBL&amp;nbsp;&lt;/div&gt;&lt;div&gt;reducer: make the changes to the store==&amp;gt; thierspecific data part.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="l0HMWCNfZswiMzKAxEHk-2" value="Slice : a slice is like a mini state module that manages one feature of your application.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;data: state&lt;/div&gt;&lt;div&gt;action:&amp;nbsp; register, login ==&amp;gt; rest / CBL&amp;nbsp;&lt;/div&gt;&lt;div&gt;reducer: make the changes to the store==&amp;gt; thierspecific data part.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="70" y="650" width="380" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="mSPh_dUg8nkktQqN7sIM-1" value="1. initial&lt;div&gt;or&amp;nbsp;&lt;/div&gt;&lt;div&gt;success&amp;nbsp;&lt;/div&gt;&lt;div&gt;failure.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="410" width="180" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
