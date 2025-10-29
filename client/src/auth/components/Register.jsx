@@ -37,6 +37,7 @@ const Register = () => {
     console.log("Form Submitted");
     console.log(formData); // print the form data in the console
     dispatch(registerUserAction(formData));
+    // it should take me to the dashboard after successful registration
   };
 
   const { name, email, password, password2 } = formData; // destructuring

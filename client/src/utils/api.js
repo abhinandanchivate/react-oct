@@ -13,10 +13,21 @@ API.interceptors.request.use(
   // add the token to header called x-auth-token
   (config) => {
     const NO_AUTH_URLS = ["/auth", "/users"];
+    // only post methods are public in nature
+    // /auth : get the user details it requires token
+    // /auth : is private api.
+
     // token should not be added for login and register.
-    if (NO_AUTH_URLS.some((url) => config.url?.toLowerCase().startsWith(url))) {
-      return config;
+
+    const isLoginOrRegister =
+      (config.url?.toLowerCase().startsWith("/auth") &&
+        config.method === "post") ||
+      config.url?.toLowerCase().startsWith("/users");
+
+    if (isLoginOrRegister) {
+      return config; // return the config without adding token
     }
+
     const token = localStorage.getItem("token");
     if (token) {
       config.headers["x-auth-token"] = token;

@@ -1,6 +1,6 @@
 // BL stuff + rest call consumptions.
 import { createAsyncThunk } from "@reduxjs/toolkit";
-import { loginUser, registerUser } from "./auth.service";
+import { loadUser, loginUser, registerUser } from "./auth.service";
 
 export const registerUserAction = createAsyncThunk(
   // export :
@@ -9,13 +9,15 @@ export const registerUserAction = createAsyncThunk(
   // createAsyncThunk : to create an async action
   // thunk is middleware to handle async actions in redux toolkit
   "auth/registerUser", // action name : should be unique across the application
-  async (formData, { rejectWithValue }) => {
+  async (formData, { rejectWithValue, dispatch }) => {
     // async : to use await keyword inside the function
     // formData : data filled by the user in the register form we are demanding here.
     // { rejectWithValue } : to send custom error payload from here to the calling function catch block. ==> will come from redux toolkit ==> which is used to return the rejected /failure payload response.
     try {
       // success part
       const data = await registerUser(formData);
+      // call loadUserAction
+      dispatch(loadUserAction());
       return data;
     } catch (err) {
       // failure part
@@ -40,11 +42,29 @@ export const registerUserAction = createAsyncThunk(
 
 export const loginUserAction = createAsyncThunk(
   "auth/loginUser",
-  async (formData, { rejectWithValue }) => {
+  async (formData, { rejectWithValue, dispatch }) => {
     try {
       const data = await loginUser(formData);
+      // we have to call loadUserAction
+      dispatch(loadUserAction());
       return data;
     } catch (err) {
+      return rejectWithValue(err.data);
+    }
+  }
+);
+
+// load user action
+export const loadUserAction = createAsyncThunk(
+  "auth/loadUser",
+  async (_, { rejectWithValue }) => {
+    try {
+      // success
+      // _ : no input parameter is required
+      const data = await loadUser();
+      return data;
+    } catch (err) {
+      // failure
       return rejectWithValue(err.data);
     }
   }

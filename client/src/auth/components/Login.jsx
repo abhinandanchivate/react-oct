@@ -27,7 +27,6 @@ const Login = () => {
     <>
       {" "}
       <section class="container">
-        <div class="alert alert-danger">Invalid credentials</div>
         <h1 class="large text-primary">Sign In</h1>
         <p class="lead">
           <i class="fas fa-user"></i> Sign into Your Account

@@ -2,7 +2,11 @@
 // state : data declaration.==> store.
 
 import { createSlice } from "@reduxjs/toolkit";
-import { loginUserAction, registerUserAction } from "./auth.action";
+import {
+  loadUserAction,
+  loginUserAction,
+  registerUserAction,
+} from "./auth.action";
 
 const authState = {
   isAuthenticated: false,
@@ -97,7 +101,23 @@ const authSlice = createSlice({
         state.isAuthenticated = false;
         state.token = null;
         state.status = "failure";
-      }); // failure
+      }) // failure
+      .addCase(loadUserAction.pending, (state) => {
+        state.loading = true;
+      }) // pending
+      .addCase(loadUserAction.fulfilled, (state, action) => {
+        state.loading = false;
+        state.isAuthenticated = true;
+        state.user = action.payload.data; // user details
+        state.status = "user_loaded";
+      }) // success
+      .addCase(loadUserAction.rejected, (state, action) => {
+        state.loading = false;
+        state.isAuthenticated = false;
+        state.user = null;
+        state.token = null;
+        state.status = "user_load_failed";
+      });
   },
   //   extraReducers: {
   //     // we will include register

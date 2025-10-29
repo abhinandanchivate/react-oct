@@ -50,3 +50,20 @@ export const loginUser = async (formData) => {
     }
   }
 };
+
+// loadUser : to get the user details from the backend service
+// end point : /api/auth
+// method : get
+// headers :  token in the header called x-auth-token
+// x-auth-token :  custom header to send the jwt token to the backend service
+export const loadUser = async () => {
+  try {
+    const res = await API.get("/auth");
+    return { data: res.data, status: res.status };
+  } catch (err) {
+    const res = err.response;
+    if (res.status === 401) {
+      throw { data: err.response.data.msg, status: res.status };
+    }
+  }
+};
