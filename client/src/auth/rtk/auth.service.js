@@ -34,3 +34,19 @@ export const registerUser = async (formData) => {
     }
   }
 };
+export const loginUser = async (formData) => {
+  // formData : data filled by the user in the login form we are demanding here.
+  try {
+    //localhost:9500/api/auth/login
+    const res = await API.post("/auth", formData);
+    return { data: res.data, status: res.status };
+    // data: jwt token + user details
+    // status: res.status // 200, 201
+  } catch (err) {
+    const res = err.response;
+    // console.log(res);
+    if (res.status === 400) {
+      throw { data: err.response.data.errors, status: res.status }; // we will get it in the catch block of the calling function
+    }
+  }
+};

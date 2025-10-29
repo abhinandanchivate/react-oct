@@ -2,7 +2,7 @@
 // state : data declaration.==> store.
 
 import { createSlice } from "@reduxjs/toolkit";
-import { registerUserAction } from "./auth.action";
+import { loginUserAction, registerUserAction } from "./auth.action";
 
 const authState = {
   isAuthenticated: false,
@@ -35,6 +35,37 @@ const authSlice = createSlice({
   extraReducers: (builder) => {
     builder // register : one of the case.
 
+      .addCase(loginUserAction.pending, (state) => {
+        state.loading = true;
+      }) // pending
+      .addCase(loginUserAction.fulfilled, (state, action) => {
+        // action : payload : will hold the response data from action.
+        // action : async call ka result
+        // state : slice contnet i.e. authState content
+        // using state we can make the changes to the slice content i.e. store part.
+
+        // loginUserAction : thunk action ==> perform the rest call ==> will return the response data.
+        state.loading = false;
+        state.isAuthenticated = true;
+        console.log(action.payload.data.token);
+        localStorage.setItem("token", action.payload.data.token);
+        state.token = action.payload.data.token;
+        state.status = "success";
+        // we need to access the payload ==> contains the jwt.
+      }) // success
+      .addCase(loginUserAction.rejected, (state, action) => {
+        state.error = Array.isArray(action.payload)
+          ? action.payload.reduce((acc, error) => {
+              acc[error.param] = error.msg;
+              return acc; // single object
+            }, {})
+          : { error: action.payload || action.error.message };
+        // state.error = action.payload; // array of errors from the server
+        state.loading = false;
+        state.isAuthenticated = false;
+        state.token = null;
+        state.status = "failure";
+      }) // failure
       .addCase(registerUserAction.pending, (state) => {
         state.loading = true;
       }) // pending

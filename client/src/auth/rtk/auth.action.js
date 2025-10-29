@@ -1,6 +1,6 @@
 // BL stuff + rest call consumptions.
 import { createAsyncThunk } from "@reduxjs/toolkit";
-import { registerUser } from "./auth.service";
+import { loginUser, registerUser } from "./auth.service";
 
 export const registerUserAction = createAsyncThunk(
   // export :
@@ -37,3 +37,15 @@ export const registerUserAction = createAsyncThunk(
 
 // 1. we should use useeffect ==> inside the component.
 // 2. we should use useNavigate ==> to redirect the user to the dashboard but decimsion should be taken inside the registerAction
+
+export const loginUserAction = createAsyncThunk(
+  "auth/loginUser",
+  async (formData, { rejectWithValue }) => {
+    try {
+      const data = await loginUser(formData);
+      return data;
+    } catch (err) {
+      return rejectWithValue(err.data);
+    }
+  }
+);

@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="10">
     <diagram name="Page-1" id="zz2CMkQjYr381hOcUtvI">
-        <mxGraphModel dx="1494" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1492" dy="278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1173,7 +1173,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="15rViao5h1Nyz71mnGl8" name="Page-14">
-        <mxGraphModel dx="644" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="642" dy="278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1211,7 +1211,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="1Xl7Xx55M-x58RvnOK2S" name="Page-15">
-        <mxGraphModel dx="1494" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1492" dy="278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1236,7 +1236,7 @@
                 <mxCell id="Alb8G33zUEXpTa8EWzOf-11" value="" style="edgeStyle=none;html=1;" parent="1" source="Alb8G33zUEXpTa8EWzOf-4" target="Alb8G33zUEXpTa8EWzOf-10" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="mSPh_dUg8nkktQqN7sIM-2" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="Alb8G33zUEXpTa8EWzOf-4" target="mSPh_dUg8nkktQqN7sIM-1">
+                <mxCell id="mSPh_dUg8nkktQqN7sIM-2" value="" style="edgeStyle=none;html=1;" parent="1" source="Alb8G33zUEXpTa8EWzOf-4" target="mSPh_dUg8nkktQqN7sIM-1" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="Alb8G33zUEXpTa8EWzOf-4" value="actions" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -1272,7 +1272,7 @@
                 <mxCell id="l0HMWCNfZswiMzKAxEHk-2" value="Slice : a slice is like a mini state module that manages one feature of your application.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;data: state&lt;/div&gt;&lt;div&gt;action:&amp;nbsp; register, login ==&amp;gt; rest / CBL&amp;nbsp;&lt;/div&gt;&lt;div&gt;reducer: make the changes to the store==&amp;gt; thierspecific data part.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="70" y="650" width="380" height="180" as="geometry"/>
                 </mxCell>
-                <mxCell id="mSPh_dUg8nkktQqN7sIM-1" value="1. initial&lt;div&gt;or&amp;nbsp;&lt;/div&gt;&lt;div&gt;success&amp;nbsp;&lt;/div&gt;&lt;div&gt;failure.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="mSPh_dUg8nkktQqN7sIM-1" value="1. initial&lt;div&gt;or&amp;nbsp;&lt;/div&gt;&lt;div&gt;success&amp;nbsp;&lt;/div&gt;&lt;div&gt;failure.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="350" y="410" width="180" height="80" as="geometry"/>
                 </mxCell>
             </root>
