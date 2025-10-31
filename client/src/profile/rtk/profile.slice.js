@@ -1,8 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
-import {
-  createProfileAction,
-  getCurrentProfileAciton,
-} from "../action/profile.action";
+import { createProfileAction, getCurrentProfileAciton } from "./profile.action";
+
 const initialState = {
   profile: null, // to hold current profile
   profiles: [], // to hold all profiles

@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="10">
     <diagram name="Page-1" id="zz2CMkQjYr381hOcUtvI">
-        <mxGraphModel dx="1477" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1498" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1279,7 +1279,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="RV_sX-n747K04fa8lVzc" name="Page-16">
-        <mxGraphModel dx="1477" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2348" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1289,7 +1289,7 @@
                 <mxCell id="DjExfSj6GsEqeSgSdrwc-1" value="register /login" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="170" y="60" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-2" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="DjExfSj6GsEqeSgSdrwc-2" target="ONMsqLKYAGY7kbrKv2Gf-1">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-2" value="" style="edgeStyle=none;html=1;" parent="1" source="DjExfSj6GsEqeSgSdrwc-2" target="ONMsqLKYAGY7kbrKv2Gf-1" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="DjExfSj6GsEqeSgSdrwc-2" value="dashboard ==&amp;gt; user details , welcome userName some info about hte user we want to use it ." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -1358,50 +1358,149 @@
                 <mxCell id="DjExfSj6GsEqeSgSdrwc-24" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="115" y="900" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-1" value="user details(in store loadUserAction )&amp;nbsp; + profile status&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-1" value="user details(in store loadUserAction )&amp;nbsp; + profile status&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="-70" y="210" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="ONMsqLKYAGY7kbrKv2Gf-3" target="ONMsqLKYAGY7kbrKv2Gf-4">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-5" value="" style="edgeStyle=none;html=1;" parent="1" source="ONMsqLKYAGY7kbrKv2Gf-3" target="ONMsqLKYAGY7kbrKv2Gf-4" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-3" value="1st we need to check do we have profile or not ?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-3" value="1st we need to check do we have profile or not ?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-420" y="160" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="ONMsqLKYAGY7kbrKv2Gf-4" target="ONMsqLKYAGY7kbrKv2Gf-6">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-7" value="" style="edgeStyle=none;html=1;" parent="1" source="ONMsqLKYAGY7kbrKv2Gf-4" target="ONMsqLKYAGY7kbrKv2Gf-6" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-4" value="profile ka get service ? rest call." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-4" value="profile ka get service ? rest call." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="-420" y="300" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-9" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="ONMsqLKYAGY7kbrKv2Gf-6" target="ONMsqLKYAGY7kbrKv2Gf-8">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-9" value="" style="edgeStyle=none;html=1;" parent="1" source="ONMsqLKYAGY7kbrKv2Gf-6" target="ONMsqLKYAGY7kbrKv2Gf-8" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-12" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="ONMsqLKYAGY7kbrKv2Gf-6" target="ONMsqLKYAGY7kbrKv2Gf-11">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-12" value="" style="edgeStyle=none;html=1;" parent="1" source="ONMsqLKYAGY7kbrKv2Gf-6" target="ONMsqLKYAGY7kbrKv2Gf-11" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-6" value="getCurrentProfileAction" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-6" value="getCurrentProfileAction" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="-620" y="300" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-10" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ONMsqLKYAGY7kbrKv2Gf-8" target="ONMsqLKYAGY7kbrKv2Gf-3">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-10" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ONMsqLKYAGY7kbrKv2Gf-8" target="ONMsqLKYAGY7kbrKv2Gf-3" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-8" value="success we will get profile details&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-8" value="success we will get profile details&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="-620" y="160" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-13" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ONMsqLKYAGY7kbrKv2Gf-11" target="ONMsqLKYAGY7kbrKv2Gf-3">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-13" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ONMsqLKYAGY7kbrKv2Gf-11" target="ONMsqLKYAGY7kbrKv2Gf-3" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-11" value="if u don&#39;t have it then&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-11" value="if u don&#39;t have it then&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="-620" y="440" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-16" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="ONMsqLKYAGY7kbrKv2Gf-14" target="ONMsqLKYAGY7kbrKv2Gf-15">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-16" value="" style="edgeStyle=none;html=1;" parent="1" source="ONMsqLKYAGY7kbrKv2Gf-14" target="ONMsqLKYAGY7kbrKv2Gf-15" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-14" value="it should tell us to create the profile 1st&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-14" value="it should tell us to create the profile 1st&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-485" y="400" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-15" value="by rendering create=profile button." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="ONMsqLKYAGY7kbrKv2Gf-15" value="by rendering create=profile button." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-375" y="385" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-3" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-1" target="1dR95X8j2REhmm16SNIi-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-1" value="register/ login&lt;div&gt;for the 1st time&lt;/div&gt;&lt;div&gt;do u have profile or not ?&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-630" y="620" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-2" value="dashboard" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="-630" y="830" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-4" target="1dR95X8j2REhmm16SNIi-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-4" value="1. profile exists or not" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="-485" y="710" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-8" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-5" target="1dR95X8j2REhmm16SNIi-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-5" value="do we need to access the profile for our dashboard&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-375" y="695" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-7" value="profile state ===&amp;gt; current user profile(profile field)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-375" y="835" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-11" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-9" target="1dR95X8j2REhmm16SNIi-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-9" value="before the initialization of component." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="-700" y="730" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-13" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-10" target="1dR95X8j2REhmm16SNIi-12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-10" value="a life cycle event to handle initialization part ==&amp;gt; useEffect()" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-885" y="730" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-15" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-12" target="1dR95X8j2REhmm16SNIi-14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-12" value="useEffect is a lifecycle hook" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-885" y="870" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-14" value="3 formats useEffect(()=&amp;gt;{},[]) ==&amp;gt; we want to hanlde onetime initialization.&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;useEffect(()=&amp;gt;{},[a,ab,])&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-912.5" y="1010" width="175" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-18" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-16" target="1dR95X8j2REhmm16SNIi-17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-16" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="1540" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-20" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-17" target="1dR95X8j2REhmm16SNIi-19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-17" value="init part . useEffect" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="1680" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-22" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-19" target="1dR95X8j2REhmm16SNIi-21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-28" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-19" target="1dR95X8j2REhmm16SNIi-27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-19" value="getCurrentProfileAction" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="1680" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-24" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-21" target="1dR95X8j2REhmm16SNIi-23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-21" value="service" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="1820" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-23" value="will get the failure&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="1960" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-25" style="edgeStyle=none;html=1;entryX=0.833;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-23" target="1dR95X8j2REhmm16SNIi-21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-26" style="edgeStyle=none;html=1;entryX=0.871;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-21" target="1dR95X8j2REhmm16SNIi-19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-30" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-27" target="1dR95X8j2REhmm16SNIi-29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-27" value="rejected" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="1680" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-32" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-29" target="1dR95X8j2REhmm16SNIi-31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-29" value="profile : null&lt;div&gt;error : {} ==&amp;gt; inside the slice&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="1820" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-33" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#3399FF;" edge="1" parent="1" source="1dR95X8j2REhmm16SNIi-31" target="1dR95X8j2REhmm16SNIi-16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1dR95X8j2REhmm16SNIi-31" value="store" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="1960" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
