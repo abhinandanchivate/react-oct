@@ -2,9 +2,9 @@ import React, { useEffect, useMemo, useState } from "react";
 import { Link, useMatch, useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import {
-  createOrUpdateProfileAction,
-  getCurrentProfileAction,
-} from "../../redux/action/profileAction";
+  createProfileAction,
+  getCurrentProfileAciton,
+} from "../profile.action";
 
 const emptyForm = {
   company: "",
@@ -60,7 +60,7 @@ const CreateProfile = () => {
       .filter(Boolean);
 
     const payload = { ...formData, skills: skillsArray };
-    dispatch(createOrUpdateProfileAction(payload));
+    dispatch(createProfileAction(payload));
   };
 
   const socialDetails = (
@@ -133,7 +133,7 @@ const CreateProfile = () => {
 
   // Load current profile in edit mode
   useEffect(() => {
-    if (!isCreate) dispatch(getCurrentProfileAction());
+    if (!isCreate) dispatch(getCurrentProfileAciton());
   }, [dispatch, isCreate]);
 
   // Prefill form when profile loads

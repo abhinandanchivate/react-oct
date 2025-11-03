@@ -1,26 +1,55 @@
 <mxfile host="65bd71144e">
     <diagram id="r6DLBopaDznnS11_Ngbl" name="Page-1">
-        <mxGraphModel dx="1399" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1498" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="5">
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="7">
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="7" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="Node Js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="2" value="Node Js" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="130" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="NPM (to a centralized location)&lt;div&gt;-g : global&lt;/div&gt;&lt;div&gt;if we will not use -g then it will be stored in the project dict as a local one&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="5" value="NPM (to a centralized location)&lt;div&gt;-g : global&lt;/div&gt;&lt;div&gt;if we will not use -g then it will be stored in the project dict as a local one&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="-60" y="200" width="140" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="npx : it will help us to hold the lib details in the cache. ==&amp;gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="7" value="npx : it will help us to hold the lib details in the cache. ==&amp;gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="330" y="200" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;npx create-vite@latest my-react-app -- --template react&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="9" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;npx create-vite@latest my-react-app -- --template react&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-10" y="370" width="400" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="e0Zl3yvls58NvQCMPpDg" name="Page-2">
+        <mxGraphModel dx="648" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="O7dk9--9R93PtlcheyGp-3" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="O7dk9--9R93PtlcheyGp-1" target="O7dk9--9R93PtlcheyGp-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="O7dk9--9R93PtlcheyGp-1" value="main / controller&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="O7dk9--9R93PtlcheyGp-5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="O7dk9--9R93PtlcheyGp-2" target="O7dk9--9R93PtlcheyGp-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="O7dk9--9R93PtlcheyGp-2" value="service" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="O7dk9--9R93PtlcheyGp-4" value="repo" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="O7dk9--9R93PtlcheyGp-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="480" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="O7dk9--9R93PtlcheyGp-7" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O7dk9--9R93PtlcheyGp-4" target="O7dk9--9R93PtlcheyGp-6">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

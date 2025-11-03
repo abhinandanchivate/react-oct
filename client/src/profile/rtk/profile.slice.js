@@ -4,7 +4,7 @@ import { createProfileAction, getCurrentProfileAciton } from "./profile.action";
 const initialState = {
   profile: null, // to hold current profile
   profiles: [], // to hold all profiles
-  loading: true,
+  loading: false,
   error: {},
 };
 const profileSlice = createSlice({

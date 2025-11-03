@@ -15,7 +15,6 @@ function App() {
   // to work with props we need to pass props from parent to child component. i.e. ==> sharing is possible in related components only(parent to child).
   return (
     <div>
-      
       <Header appName={appName} appDetails={details} />
       <RootRouter />
       <Footer />
